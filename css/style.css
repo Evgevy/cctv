@@ -486,8 +486,8 @@ img {
     gap: 30px;
   }
   .services__pay {
-    top: -webkit-calc(100% - 100px);
-    top: calc(100% - 120px);
+    top: -webkit-calc(100% - 110px);
+    top: calc(100% - 110px);
   }
   .services__wallet {
     display: none;
